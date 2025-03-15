@@ -1,0 +1,22 @@
+Machine ID,Machine Type,Date,Shift,Temperature (°C),Vibration Level (mm/s),Energy Usage (kWh),Production Output (units),Downtime (minutes),Error Codes
+M001,Dyeing Machine,9/1/2024,Morning,67.4,15.5,56.5,45,33,E03
+M001,Dyeing Machine,9/5/2024,Evening,60.6,16.2,36.5,119,42,E00
+M001,Dyeing Machine,9/10/2024,Evening,81.5,19.5,41.7,64,52,E01
+M001,Dyeing Machine,9/12/2024,Night,88.7,15.7,42.9,147,44,E02
+M001,Dyeing Machine,9/17/2024,Morning,75.7,22.3,33.3,149,54,E02
+M001,Dyeing Machine,9/19/2024,Night,69.4,13.9,50.7,50,33,E01
+M001,Dyeing Machine,9/19/2024,Night,86.5,17.7,51.5,28,12,E00
+M001,Dyeing Machine,9/20/2024,Morning,77.4,22.4,56.1,134,19,E02
+M001,Dyeing Machine,9/22/2024,Evening,72.3,12,30.7,84,36,E01
+M001,Dyeing Machine,9/23/2024,Morning,73.8,17.2,56.1,155,23,E02
+M001,Dyeing Machine,10/2/2024,Evening,70,17,40.7,30,26,E00
+M001,Dyeing Machine,10/6/2024,Night,61,20.3,34.5,89,49,E01
+M001,Dyeing Machine,10/7/2024,Morning,81.5,18.4,54.6,35,8,E03
+M001,Dyeing Machine,10/14/2024,Night,64.6,20.9,48.3,34,42,E00
+M001,Dyeing Machine,10/17/2024,Evening,69.3,23.3,37.3,192,50,E00
+M001,Dyeing Machine,10/18/2024,Night,86.9,17.9,57.5,14,25,E02
+M001,Dyeing Machine,10/23/2024,Morning,73.3,19,36,56,35,E00
+M001,Dyeing Machine,10/23/2024,Morning,80.5,14.5,47.4,185,4,E02
+M001,Dyeing Machine,10/24/2024,Night,73.1,18.1,31.1,145,53,E01
+M001,Dyeing Machine,10/25/2024,Morning,61.7,24.6,53.2,166,19,E03
+M001,Dyeing Machine,10/29/2024,Evening,66.1,23.5,51.5,123,53,E00
